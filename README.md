@@ -7,9 +7,8 @@ This repository contains a comprehensive, data-driven performance analysis for *
 
 ## 🛠️ Tech Stack & Architecture
 * **Data Warehousing & Querying:** SQL (Structured extraction of sales logs, ticket items, and branch metrics)
-* **Data Processing & ETL:** Python (Pandas, NumPy for data cleaning, cohort analysis, and anomaly detection)
 * **Business Intelligence:** Power BI (Interactive reporting canvas, relational data modeling, and DAX)
-* **Design Engineering:** Custom JSON layouts for high-contrast, corporate dark/light theme execution
+
 
 ---
 
